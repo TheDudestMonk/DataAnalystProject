@@ -4,7 +4,7 @@ Establish conn to example.db
 
 Select: patient_id, date, kit_type, result
 
-Conditions: kit_type=abbott, results < 1000, records dated > Jan, 1, 2000
+Conditions: kit_type=abbott, results < 1000, records dated > Jan 1, 2000
 
 Output: 
 
