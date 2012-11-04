@@ -1,0 +1,1 @@
+2012-11-04 07:55:39.526730 Error: day is out of range for month l 6/31/2005 abbott 888.7  processing next record
