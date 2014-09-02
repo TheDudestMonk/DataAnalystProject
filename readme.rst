@@ -18,10 +18,12 @@ Conditions:
 * results < 1000
 * records dated > Jan 1, 2000
 
-Output:
+=======
+Output
+=======
 
-	Default:  prints records and errors to stdout
-	-f, or --filename: outputs to csv and errorlog in current working directory
+Default:  prints records and errors to stdout
+-f, or --filename: outputs to csv and errorlog in current working directory
 
 ======================
 Command Line Arguments
